@@ -1,9 +1,10 @@
 import { Box, Text } from "src/ui";
 import { styled } from "stitches.config";
 
-export type LeaveReviewPageProps = {};
+// export type LeaveReviewPageProps = {};
+// export const LeaveReviewPage = (props: LeaveReviewPageProps) => {
 
-export const LeaveReviewPage = (props: LeaveReviewPageProps) => {
+const LeaveReviewPage = () => {
   return (
     <Box>
       <Text>Leave Review</Text>
